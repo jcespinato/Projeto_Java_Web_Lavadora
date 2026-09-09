@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: consumo-lavadora-java
+    runtime: docker
+    plan: free
+    autoDeploy: true
